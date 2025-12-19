@@ -43,7 +43,7 @@ VAR_MAP = {
     },
     "preventivo": {  # Quando fez o último exame preventivo (Papanicolau)
         "2013": {"codigo": "r001", "tipo": "string"},
-        "2019": {"codigo": "r001", "tipo": "string"},
+        "2019": {"codigo": "r00101", "tipo": "string"},
     },
     "mamografia": {  # Fez mamografia (Sim/Não)
         "2013": {"codigo": "r015", "tipo": "string"},
