@@ -1,10 +1,30 @@
+# Ambiente virtual
 .venv/
+
+# Variáveis de ambiente
 .env
-docs/
-.cursor/
-__pycache__/    
+
+# Cache Python
+__pycache__/
 *.pyc
 
+# Jupyter
+.ipynb_checkpoints/
+
+# Banco de dados local
 *.sqlite
-alth.py 
+
+# Autenticação / credenciais
 auth_gcp.py
+alth.py
+
+# IDEs e ferramentas
+.cursor/
+
+# Outputs gerados (opcional)
+# notebooks/*.pdf
+# notebooks/outputs/
+
+# Documentação (confirme se deseja ignorar)
+docs/
+
